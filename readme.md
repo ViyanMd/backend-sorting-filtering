@@ -1,0 +1,3 @@
+-create server 
+-create controllers 
+-connect to db
